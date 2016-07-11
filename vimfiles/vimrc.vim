@@ -30,7 +30,6 @@ set grepprg=grep\ -nH\ $*
 command -nargs=0 LaTeX :exe "normal :w<ENTER> \\ll"
 
 
-
 " OPTIONAL: This enables automatic indentation as you type.
 filetype indent on
 
