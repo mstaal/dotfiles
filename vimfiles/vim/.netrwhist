@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/staal/Dropbox'
+let g:netrw_dirhist_2='/home/staal/Dropbox/KU/Introduktion til Operatoralgebra/Assignment1'
+let g:netrw_dirhist_3='/Users/Michael/Dropbox/KU/Instruktorater/Analyse2_2016/øvelser'
+let g:netrw_dirhist_4='/Users/Michael/Dropbox/KU/Instruktorater/Analyse2_2016'
+let g:netrw_dirhist_5='/Users/Michael/Dropbox/Settings'
