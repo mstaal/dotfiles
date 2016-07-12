@@ -1,3 +1,0 @@
-[submodule "vimfiles/vim"]
-	path = vimfiles/vim
-	url = https://github.com/vim-latex/vim-latex.git
